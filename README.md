@@ -1,19 +1,22 @@
 ### Hi there I'm Rudraditya👋
 I'm a beginner to the world of computing, keen of exploring new technologies and applying it to get better at it!!
-<!--
-**Shaviaditya/Shaviaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on increasing problem solving abilities by means of competitve programming and exploring the world of developement by means of web-dev.
 - 🌱 I’m currently learning frameworks of Javascript like React, and exploring backend technologies via Node.
-<!-- 👯 I’m looking to collaborate on ...
-<!-- 🤔 I’m looking for help with ...
-<!-- 💬 Ask me about ...
+
 - 📫 How to reach me: 
 - You can reach me on my email handle : rudrashiv311@gmail.com
 - Codechef Handle : https://www.codechef.com/users/shaivya3
 - Codeforces Handle : https://codeforces.com/profile/Shavya 
+<!--
+**Shaviaditya/Shaviaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
+
+Here are some ideas to get you started:
+
+
+<!-- 👯 I’m looking to collaborate on ...
+<!-- 🤔 I’m looking for help with ...
+<!-- 💬 Ask me about ...
 <!-- 😄 Pronouns: ...
 <!-- ⚡ Fun fact: ...
 -->
