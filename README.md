@@ -8,6 +8,7 @@ I'm a beginner to the world of computing, keen of exploring new technologies and
 - You can reach me on my email handle : rudrashiv311@gmail.com
 - Codechef Handle : https://www.codechef.com/users/shaivya3
 - Codeforces Handle : https://codeforces.com/profile/Shavya 
+- LinkedIn Handle: www.linkedin.com/in/rudraditya-jalan-2b98661bb
 <!--
 **Shaviaditya/Shaviaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
