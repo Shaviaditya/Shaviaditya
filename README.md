@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaviaditya&label=Profile%20views&color=0e75b6&style=flat" alt="Rudraditya" /> </p>
 <a href="www.linkedin.com/in/rudraditya-jalan-2b98661bb">
   <img align="left" alt="Rudraditya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
  
 <a href="https://github.com/Shaviaditya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaviaditya&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaviaditya&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Shaviaditya">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaviaditya&show_icons=true&theme=light&line_height=27" alt="Rudraditya's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaviaditya&show_icons=true&theme=radical&line_height=27" alt="Rudraditya's github stats"/>
 </a>
  
 
