@@ -1,4 +1,7 @@
-### Hi there I'm Rudraditya👋
+###                                                           Hi there I'm Rudraditya👋
+
+
+
 I'm a beginner to the world of computing, keen of exploring new technologies and applying it to get better at it!!
 
 - 🔭 I’m currently working on increasing problem solving abilities by means of competitve programming and exploring the world of developement by means of web-dev.
@@ -27,16 +30,16 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaviaditya&label=Profile%20views&color=0e75b6&style=flat" alt="Rudraditya" /> </p>
 <a href="www.linkedin.com/in/rudraditya-jalan-2b98661bb">
-  <img align="left" alt="Rudraditya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Rudraditya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Shaviaditya">
-  <img align="left" alt="Rudraditya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Rudraditya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/rudradityajalan/">
-  <img align="left" alt="Rudraditya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Rudraditya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/rudraditya.jalan">
-  <img align="left" alt="Rudraditya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="center" alt="Rudraditya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
@@ -50,6 +53,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Shaviaditya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaviaditya&theme=radical&hide_langs_below=1" />
 </a>
+<br>
 <a href="https://github.com/Shaviaditya">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaviaditya&show_icons=true&theme=radical&line_height=27" alt="Rudraditya's github stats"/>
 </a>
