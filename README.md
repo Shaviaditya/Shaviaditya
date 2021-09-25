@@ -10,7 +10,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/rudraditya_57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rishav4101" height="30" width="40" /></a>
+<a href="https://dev.to/rudraditya_57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rishav4101" height="30" width="40" color="white" /></a>
 <a href="www.linkedin.com/in/rudraditya-jalan-2b98661bb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rudraditya-jalan-2b98661bb" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rudraditya.jalan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rudraditya.jalan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_rudraditya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_rudraditya" height="30" width="40" /></a>
