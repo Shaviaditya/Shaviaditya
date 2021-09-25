@@ -1,63 +1,32 @@
-###                                                           Hi there I'm Rudraditya👋
+<div>
+<h1 align="center">Hi 👋, I'm Rudraditya Jalna</h1>
+<h3 align="center">A passionate Web Developer & Competitive Coder from India.</h3>
+  
+<p align="center">Ask me about <b>HTML/CSS, Javascript, NodeJS, ReactJS, C, C++, Python</b></p>
+<p align="center">Reach me at <b>rudrashiv311@gmail.com</b></p>
 
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shaviaditya" alt="Shaviaditya"/></a> </p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shaviaditya&label=Profile%20views&color=0e75b6&style=flat" alt="Shaviaditya" /> </p>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://dev.to/rudraditya_57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rishav4101" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rudraditya-jalan-2b98661bb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rudraditya-jalan-2b98661bb" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rudraditya.jalan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rudraditya.jalan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_rudraditya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_rudraditya" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shaivya3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shaivya3" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Shavya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Shavya" height="30" width="40" /></a>
+</p>
 
-I'm a beginner to the world of computing, keen of exploring new technologies and applying it to get better at it!!
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaviaditya&show_icons=true&locale=en&layout=compact" alt="Shaviaditya" /></p>
 
-- 🔭 I’m currently working on increasing problem solving abilities by means of competitve programming and exploring the world of developement by means of web-dev.
-- 🌱 I’m currently learning frameworks of Javascript like React, and exploring backend technologies via Node.
+<div >
+<!-- <p style="display: flex;" display="flex" align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaviaditya&show_icons=true&locale=en" alt="Shaviaditya" /></p> -->
 
-- 📫 How to reach me: 
-- You can reach me on my email handle : rudrashiv311@gmail.com
-- Codechef Handle : https://www.codechef.com/users/shaivya3
-- Codeforces Handle : https://codeforces.com/profile/Shavya 
-- LinkedIn Handle: www.linkedin.com/in/rudraditya-jalan-2b98661bb
-<!--
-**Shaviaditya/Shaviaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaviaditya&" alt="Shaviaditya" /></p>
+</div>
+<h3 align="center">Languages and Tools used:</h3>
+<p align="center"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  </p>
 
-Here are some ideas to get you started:
-
-
-<!-- 👯 I’m looking to collaborate on ...
-<!-- 🤔 I’m looking for help with ...
-<!-- 💬 Ask me about ...
-<!-- 😄 Pronouns: ...
-<!-- ⚡ Fun fact: ...
--->
-<p>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaviaditya&label=Profile%20views&color=0e75b6&style=flat" alt="Rudraditya" /> </p>
-<a href="www.linkedin.com/in/rudraditya-jalan-2b98661bb">
-  <img align="center" alt="Rudraditya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Shaviaditya">
-  <img align="center" alt="Rudraditya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/rudradityajalan/">
-  <img align="center" alt="Rudraditya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/rudraditya.jalan">
-  <img align="center" alt="Rudraditya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br/>
-<br/>
-
-
- 
-
-
- 
-<a href="https://github.com/Shaviaditya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaviaditya&theme=radical&hide_langs_below=1" />
-</a>
-<br>
-<a href="https://github.com/Shaviaditya">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaviaditya&show_icons=true&theme=radical&line_height=27" alt="Rudraditya's github stats"/>
-</a>
- 
 
 </div>
-
