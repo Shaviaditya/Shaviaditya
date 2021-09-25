@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Hi 👋, I'm Rudraditya Jalna</h1>
+<h1 align="center">Hi 👋, I'm Rudraditya Jalan</h1>
 <h3 align="center">A passionate Web Developer & Competitive Coder from India.</h3>
   
 <p align="center">Ask me about <b>HTML/CSS, Javascript, NodeJS, ReactJS, C, C++, Python</b></p>
