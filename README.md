@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/rudraditya.jalan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rudraditya.jalan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_rudraditya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_rudraditya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shaivya3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shaivya3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Shavya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Shavya" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rudraditya158" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Shavya" height="30" width="40" /></a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaviaditya&show_icons=true&locale=en&layout=compact" alt="Shaviaditya" /></p>
